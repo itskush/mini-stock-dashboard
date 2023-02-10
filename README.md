@@ -14,7 +14,7 @@ In order to get started, the following software packages need to be installed:
 1. Clone the repository:
 
 ```
-git clone https://github.com/username/stock-dashboard.git
+git clone https://github.com/itskush/mini-stock-dashboard.git
 ```
 
 2. Clone the repository:
