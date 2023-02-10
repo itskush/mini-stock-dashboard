@@ -23,7 +23,7 @@ git clone https://github.com/itskush/mini-stock-dashboard.git
 rename the .env.testing file in the server folder to .env and add in your api key from alpha-vantage
 ```
 
-3. Install node packages:
+3. Start Terminal with admin priviledges:
 
 ```
 Open a terminal pointing to the root folder of the project
