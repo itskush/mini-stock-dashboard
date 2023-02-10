@@ -20,7 +20,7 @@ git clone https://github.com/username/stock-dashboard.git
 2. Clone the repository:
 
 ```
-rename the .env.testing file to .env and add in your api key from alpha-vantage
+rename the .env.testing file in the server folder to .env and add in your api key from alpha-vantage
 ```
 
 3. Install node packages:
