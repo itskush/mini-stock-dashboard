@@ -17,7 +17,7 @@ In order to get started, the following software packages need to be installed:
 git clone https://github.com/itskush/mini-stock-dashboard.git
 ```
 
-2. Clone the repository:
+2. Rename the env and add Api Key:
 
 ```
 rename the .env.testing file in the server folder to .env and add in your api key from alpha-vantage
